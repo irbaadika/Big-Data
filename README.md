@@ -1,18 +1,23 @@
 CHAPTER 3
 
 1. Accumulator.py
+Untuk menghitung jumlah dari bilangan bulat dari 1 sampai 99
 
 ![image](https://user-images.githubusercontent.com/95727437/228120584-7c2aeeee-1562-4673-97c0-23712642ce8f.png)
+myaccum untuk mendefinisikan akumulator dengan nilai awal 0, kemudian myrdd untuk kumpulan dari bilangan bulat dari 1 - 99, kemudian fungsi lambda untuk menambahkan nilai ke dalam akumulator, dan menampilkan nilai
 
 2. BroadCast.py
+Untuk menampilkan daftar bilangan bulat dari 1 - 99
 
 ![image](https://user-images.githubusercontent.com/95727437/228120648-1a7dac84-566f-4aa9-a3d0-5b1f07e3c48d.png)
 
 3. PairRDD.py
+Membuat RDD dengan metode parallelize kemudian myPairRDD dibuat dengan map yang akan mengembalikan nilai dari elemen RDD dan panjangnya
 
 ![image](https://user-images.githubusercontent.com/95727437/228120674-9d5e734e-b5aa-4d53-ad83-97cb6038dc93.png)
 
 4. SystemCommandsOutput.scala
+
 
 ![image](https://user-images.githubusercontent.com/95727437/228120697-15cdf7aa-f904-4148-9653-c25517cbc1c6.png)
 ![image](https://user-images.githubusercontent.com/95727437/228120714-fb9e602e-12cb-497a-b7be-bf3a4fff3e65.png)
